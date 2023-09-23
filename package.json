@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "name": "microservicos",
+  "description": "",
+  "version": "1.0.0",
+  "main": "clima.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycds/microservicos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andycds/microservicos/issues"
+  },
+  "homepage": "https://github.com/andycds/microservicos#readme"
+}
